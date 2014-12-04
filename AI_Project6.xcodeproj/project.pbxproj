@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		BAE76C6A1A2EBCD800BA7BE5 /* AI_Project6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AI_Project6; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAE76C6D1A2EBCD800BA7BE5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BAE76C741A2EBD0300BA7BE5 /* dictionary.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = dictionary.txt; path = AI_Project6/dictionary.txt; sourceTree = "<group>"; };
+		BAE76C751A2EBFA400BA7BE5 /* in.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		BAE76C611A2EBCD800BA7BE5 = {
 			isa = PBXGroup;
 			children = (
+				BAE76C741A2EBD0300BA7BE5 /* dictionary.txt */,
 				BAE76C6C1A2EBCD800BA7BE5 /* AI_Project6 */,
 				BAE76C6B1A2EBCD800BA7BE5 /* Products */,
 			);
@@ -58,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				BAE76C6D1A2EBCD800BA7BE5 /* main.cpp */,
+				BAE76C751A2EBFA400BA7BE5 /* in.txt */,
 			);
 			path = AI_Project6;
 			sourceTree = "<group>";
